@@ -2,6 +2,8 @@
 
 This repository contains python notebooks for my workshop at ODSC, Boston. [Link to registration](https://register.gotowebinar.com/register/2308806590174686476)
 
+### [Python Notebook for the conference](https://nbviewer.jupyter.org/github/akshaybahadur21/ODSC-Boston-2019/blob/master/DeepVision.ipynb)
+
 ### Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning.
 
